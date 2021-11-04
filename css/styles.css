@@ -1,9 +1,21 @@
-img {
+.animalcard img {
   width: 300px;
   float: right;
   margin: 1em;
 }
-.card {
+#splash-img {
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+.animal-card {
   margin-bottom: 1em;
   display: none;
+}
+h5 {
+  margin-top: 1em;
+}
+h2 {
+  text-align: center;
 }
