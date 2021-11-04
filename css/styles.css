@@ -5,4 +5,5 @@ img {
 }
 .card {
   margin-bottom: 1em;
+  display: none;
 }
