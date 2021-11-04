@@ -1,4 +1,5 @@
 function hideAll() {
+  $("#splash-card").hide();
   $("#shiba-inu-card").hide();
   $("#corgi-card").hide();
   $("#siberian-husky-card").hide();
